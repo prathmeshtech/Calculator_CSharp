@@ -1,0 +1,32 @@
+# Compiled binaries
+bin/
+obj/
+
+# User and developer-specific files
+.vs/
+.suo
+.user
+.userprefs
+.sln.docstates
+.sln
+
+# NuGet packages
+packages/
+
+# Temporary files and logs
+*.log
+
+# Visual Studio files
+.vscode/
+.suo
+*.sln.ide-ws
+
+# User interface designer files
+*.Designer.cs
+
+# User secrets
+secrets.json
+
+# ReSharper files (if applicable)
+_ReSharper*/
+.idea/
