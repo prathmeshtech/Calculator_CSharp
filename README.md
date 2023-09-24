@@ -1,8 +1,8 @@
 # Calculator_CSharp
 
 We are Making a C# based simple project of Calculator with some more functionalities added like: 
-1. History button to check recent operations -> Done
-2. Brackets implementation using stacks -> You can create PR if you want to contribute
+a. History button to check recent operations -> Done
+b. Brackets implementation using stacks -> You can create PR if you want to contribute
 
 1. Project Setup 
 2. Basic Skeleton of Calculator
